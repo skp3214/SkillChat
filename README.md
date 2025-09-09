@@ -2,8 +2,9 @@
 
 SkillChat is a chat application powered by Generative AI 🤖, designed to help users prepare for interviews 💼. It provides interactive chat-based guidance, mock interview sessions, and personalized feedback to improve your interview skills.
 
+<img width="2245" height="1587" alt="skillchatiimage" src="https://github.com/user-attachments/assets/ad970bd3-ca0e-402d-ae1a-ac78d72e32cd" />
 
-https://github.com/user-attachments/assets/f764ce4c-d81a-42f8-973b-58474ebfcd82
+
 
 
 ## ✨ Features
